@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/opply-front-test/static/css/main.1d9ec9ac.css",
-    "main.js": "/opply-front-test/static/js/main.c1a948f1.js",
-    "static/js/787.d49e9a2a.chunk.js": "/opply-front-test/static/js/787.d49e9a2a.chunk.js",
+    "main.js": "/opply-front-test/static/js/main.5279c959.js",
     "index.html": "/opply-front-test/index.html",
     "main.1d9ec9ac.css.map": "/opply-front-test/static/css/main.1d9ec9ac.css.map",
-    "main.c1a948f1.js.map": "/opply-front-test/static/js/main.c1a948f1.js.map",
-    "787.d49e9a2a.chunk.js.map": "/opply-front-test/static/js/787.d49e9a2a.chunk.js.map"
+    "main.5279c959.js.map": "/opply-front-test/static/js/main.5279c959.js.map"
   },
   "entrypoints": [
     "static/css/main.1d9ec9ac.css",
-    "static/js/main.c1a948f1.js"
+    "static/js/main.5279c959.js"
   ]
 }
